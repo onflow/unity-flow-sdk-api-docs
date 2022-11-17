@@ -26,7 +26,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="FLOWLogo.png"/></td>
   <td id="projectalign">
-   <div id="projectname">Unity FlowSDK<span id="projectnumber">&#160;1.0.0</span>
+   <div id="projectname">Unity FlowSDK<span id="projectnumber">&#160;1.0.1</span>
    </div>
    <div id="projectbrief">FLOW Unity SDK</div>
   </td>
@@ -102,7 +102,7 @@ $(document).ready(function(){initNavTree('md__r_e_a_d_m_e.html',''); initResizab
 <li>Execute game logic on-chain</li>
 </ul>
 <p >You can run your game completely on-chain, or go with a mixed on-chain\off-chain architecture.</p>
-<h1><a class="anchor" id="autotoc_md2"></a>
+<h1><a class="anchor" id="autotoc_md3"></a>
 Overview</h1>
 <p >The SDK is comprised of two parts:</p>
 <p >The <b><a class="el" href="namespace_dapper_labs_1_1_flow_1_1_sdk.html">DapperLabs.Flow.Sdk</a></b> namespace</p>
@@ -110,7 +110,7 @@ Overview</h1>
 <p >The <b><a class="el" href="namespace_dapper_labs_1_1_flow_1_1_sdk_1_1_unity.html">DapperLabs.Flow.Sdk.Unity</a></b> namespace</p>
 <p >This namespace provides Unity specific helper functions and utilities to make developing Unity apps that run on Flow easier. It offers an account-centric model of interacting with the Flow network. <br  />
 </p>
-<h2><a class="anchor" id="autotoc_md3"></a>
+<h2><a class="anchor" id="autotoc_md4"></a>
 Which should I use?</h2>
 <p >You can use either, or both, depending on your needs. The base Flow SDK offers more control and more features such as allowing for multi-party signing of transactions. FlowControl offers a simpler workflow for the most commonly used features (executing scripts and single party transactions).</p>
 <p >A typical Flow SDK transaction submittal would look like:</p>
@@ -136,7 +136,7 @@ Which should I use?</h2>
 <p >Under the hood, FlowControl handles connecting to the network associated with the account, submitting the transaction, and polling to determine when the transaction has finished executing.</p>
 <p >You can use FlowControl for the majority of things and the Flow SDK for advanced functionality not provided by FlowControl. <br  />
 </p>
-<h2><a class="anchor" id="autotoc_md4"></a>
+<h2><a class="anchor" id="autotoc_md5"></a>
 Asynchronous programming</h2>
 <p >Because response times when interacting with the blockchain can take seconds, functions that interact with the chain will usually return asyncronous Tasks. A common pattern for asyncronous programming in Unity is to use Coroutines to wait until the Task completes and act upon it.</p>
 <p >Example:</p>
@@ -159,12 +159,12 @@ Asynchronous programming</h2>
 <div class="line">        Debug.Log($&quot;Error executing script: {task.Result.Error.Message}&quot;);</div>
 <div class="line">    }</div>
 <div class="line">}</div>
-</div><!-- fragment --><h2><a class="anchor" id="autotoc_md5"></a>
+</div><!-- fragment --><h2><a class="anchor" id="autotoc_md6"></a>
 FlowControl</h2>
 <p >The FlowControl component and editor window is the heart of the Unity editor integration. <br  />
 </p>
 <p >See the <a href="https://developers.flow.com/tools/unity-sdk/guides/flow-control">Flow Control documentation</a> for more information.</p>
-<h1><a class="anchor" id="autotoc_md6"></a>
+<h1><a class="anchor" id="autotoc_md7"></a>
 Requirements</h1>
 <p >The Flow SDK for Unity requires <b>Unity 2021.3</b> or later. The following platforms are currently supported:</p>
 <ul>
@@ -173,7 +173,7 @@ Requirements</h1>
 <li>Android</li>
 </ul>
 <p >More platforms will be supported soon, starting with iOS.</p>
-<h1><a class="anchor" id="autotoc_md7"></a>
+<h1><a class="anchor" id="autotoc_md8"></a>
 Documentation</h1>
 <p >Full documentation for the Flow SDK for Unity can be found <a href="https://developers.flow.com/tools/unity-sdk">here</a>.</p>
 <p ><a href="https://developers.flow.com/tools/unity-sdk/guides/flow-control">Flow Control</a></p>

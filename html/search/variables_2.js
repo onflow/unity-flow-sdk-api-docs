@@ -4,6 +4,5 @@ var searchData=
   ['code_1',['Code',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_contract.html#a9522f7cee3421112fc794743da09aea6',1,'DapperLabs::Flow::Sdk::DataObjects::FlowContract']]],
   ['collectionguarantees_2',['CollectionGuarantees',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_block.html#a9d8b45f31a83b1d4baac71859525db25',1,'DapperLabs::Flow::Sdk::DataObjects::FlowBlock']]],
   ['collectionid_3',['CollectionId',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_collection_guarantee.html#aef0fe2fa2c3681e6448a7c4850fe60be',1,'DapperLabs::Flow::Sdk::DataObjects::FlowCollectionGuarantee']]],
-  ['config_4',['Config',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#a6c28aac5b3c0e2bc3db02082ccd04fbe',1,'DapperLabs::Flow::Sdk::FlowSDK']]],
-  ['contracts_5',['Contracts',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_account.html#a219307b0a7318d6e51f5ab339e550047',1,'DapperLabs::Flow::Sdk::DataObjects::FlowAccount']]]
+  ['contracts_4',['Contracts',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_account.html#a219307b0a7318d6e51f5ab339e550047',1,'DapperLabs::Flow::Sdk::DataObjects::FlowAccount']]]
 ];

@@ -49,7 +49,9 @@ var annotated_dup =
             [ "FlowTransactionSignature", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_transaction_signature.html", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_transaction_signature" ]
           ] ],
           [ "DevWallet", "namespace_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet.html", [
-            [ "DevWalletProvider", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_dev_wallet_provider.html", null ]
+            [ "AccountDialog", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_account_dialog.html", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_account_dialog" ],
+            [ "DevWalletProvider", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_dev_wallet_provider.html", null ],
+            [ "TransactionDialog", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_transaction_dialog.html", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_transaction_dialog" ]
           ] ],
           [ "Exceptions", "namespace_dapper_labs_1_1_flow_1_1_sdk_1_1_exceptions.html", [
             [ "FlowError", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_exceptions_1_1_flow_error.html", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_exceptions_1_1_flow_error" ]
@@ -78,7 +80,5 @@ var annotated_dup =
           [ "Transactions", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_transactions.html", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_transactions" ]
         ] ]
       ] ]
-    ] ],
-    [ "AccountDialog", "class_account_dialog.html", "class_account_dialog" ],
-    [ "TransactionDialog", "class_transaction_dialog.html", "class_transaction_dialog" ]
+    ] ]
 ];

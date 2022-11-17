@@ -26,7 +26,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="FLOWLogo.png"/></td>
   <td id="projectalign">
-   <div id="projectname">Unity FlowSDK<span id="projectnumber">&#160;1.0.0</span>
+   <div id="projectname">Unity FlowSDK<span id="projectnumber">&#160;1.0.1</span>
    </div>
    <div id="projectbrief">FLOW Unity SDK</div>
   </td>
@@ -93,7 +93,6 @@ $(document).ready(function(){initNavTree('class_dapper_labs_1_1_flow_1_1_sdk_1_1
 <div class="header">
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">DapperLabs.Flow.Sdk.FlowSDK Class Reference</div></div>
 </div><!--header-->
@@ -105,6 +104,7 @@ $(document).ready(function(){initNavTree('class_dapper_labs_1_1_flow_1_1_sdk_1_1
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a3b7da07d0b5cc3ff9f09135f7cbca6b1"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#a3b7da07d0b5cc3ff9f09135f7cbca6b1">Init</a> (<a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_config.html">FlowConfig</a> config)</td></tr>
+<tr class="memdesc:a3b7da07d0b5cc3ff9f09135f7cbca6b1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes the <a class="el" href="namespace_dapper_labs_1_1_flow.html">Flow</a> SDK.   <a href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#a3b7da07d0b5cc3ff9f09135f7cbca6b1">More...</a><br /></td></tr>
 <tr class="separator:a3b7da07d0b5cc3ff9f09135f7cbca6b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3eead3bba4786677e26b0f5f26725003"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#a3eead3bba4786677e26b0f5f26725003">IsNetworkConnected</a> ()</td></tr>
 <tr class="memdesc:a3eead3bba4786677e26b0f5f26725003"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the <a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html" title="Entry point for the Flow SDK. To connect to a Flow network, call Init with a FlowConfig to determine ...">FlowSDK</a> is currently connected to a network.   <a href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#a3eead3bba4786677e26b0f5f26725003">More...</a><br /></td></tr>
@@ -115,11 +115,6 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:aec53a2da362b76dd8daa8dedd37c4f78"><td class="memItemLeft" align="right" valign="top">static IWallet&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#aec53a2da362b76dd8daa8dedd37c4f78">GetWalletProvider</a> ()</td></tr>
 <tr class="memdesc:aec53a2da362b76dd8daa8dedd37c4f78"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the registered Wallet provider.   <a href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#aec53a2da362b76dd8daa8dedd37c4f78">More...</a><br /></td></tr>
 <tr class="separator:aec53a2da362b76dd8daa8dedd37c4f78"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:a6c28aac5b3c0e2bc3db02082ccd04fbe"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_config.html">FlowConfig</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html#a6c28aac5b3c0e2bc3db02082ccd04fbe">Config</a></td></tr>
-<tr class="separator:a6c28aac5b3c0e2bc3db02082ccd04fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Entry point for the <a class="el" href="namespace_dapper_labs_1_1_flow.html">Flow</a> SDK. To connect to a <a class="el" href="namespace_dapper_labs_1_1_flow.html">Flow</a> network, call Init with a <a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_config.html" title="Configuration to tell the FlowSDK which network to connect to.">FlowConfig</a> to determine which network to connect to. That network will be used for all future <a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_s_d_k.html" title="Entry point for the Flow SDK. To connect to a Flow network, call Init with a FlowConfig to determine ...">FlowSDK</a> operations until Init is called again.  </p>
@@ -175,6 +170,14 @@ Static Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Initializes the <a class="el" href="namespace_dapper_labs_1_1_flow.html">Flow</a> SDK.  </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">config</td><td>Config information to initialize the <a class="el" href="namespace_dapper_labs_1_1_flow.html">Flow</a> SDK such as network connection info.</td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -237,29 +240,6 @@ Static Public Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a6c28aac5b3c0e2bc3db02082ccd04fbe" name="a6c28aac5b3c0e2bc3db02082ccd04fbe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6c28aac5b3c0e2bc3db02082ccd04fbe">&#9670;&#160;</a></span>Config</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="class_dapper_labs_1_1_flow_1_1_sdk_1_1_flow_config.html">FlowConfig</a> DapperLabs.Flow.Sdk.FlowSDK.Config</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
 
 </div>
 </div>

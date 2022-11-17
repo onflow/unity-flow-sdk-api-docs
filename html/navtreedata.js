@@ -25,16 +25,18 @@
 var NAVTREE =
 [
   [ "Unity FlowSDK", "index.html", [
-    [ "Version 1.0.0", "md__c_h_a_n_g_e_l_o_g.html", null ],
+    [ "Version 1.0.1", "md__c_h_a_n_g_e_l_o_g.html", [
+      [ "Version 1.0.0", "md__c_h_a_n_g_e_l_o_g.html#autotoc_md1", null ]
+    ] ],
     [ "LICENSE", "md__l_i_c_e_n_s_e.html", null ],
     [ "Flow SDK for Unity", "md__r_e_a_d_m_e.html", [
-      [ "Overview", "md__r_e_a_d_m_e.html#autotoc_md2", [
-        [ "Which should I use?", "md__r_e_a_d_m_e.html#autotoc_md3", null ],
-        [ "Asynchronous programming", "md__r_e_a_d_m_e.html#autotoc_md4", null ],
-        [ "FlowControl", "md__r_e_a_d_m_e.html#autotoc_md5", null ]
+      [ "Overview", "md__r_e_a_d_m_e.html#autotoc_md3", [
+        [ "Which should I use?", "md__r_e_a_d_m_e.html#autotoc_md4", null ],
+        [ "Asynchronous programming", "md__r_e_a_d_m_e.html#autotoc_md5", null ],
+        [ "FlowControl", "md__r_e_a_d_m_e.html#autotoc_md6", null ]
       ] ],
-      [ "Requirements", "md__r_e_a_d_m_e.html#autotoc_md6", null ],
-      [ "Documentation", "md__r_e_a_d_m_e.html#autotoc_md7", null ]
+      [ "Requirements", "md__r_e_a_d_m_e.html#autotoc_md7", null ],
+      [ "Documentation", "md__r_e_a_d_m_e.html#autotoc_md8", null ]
     ] ],
     [ "Third Party Notices", "md__third__party__notices.html", null ],
     [ "Namespaces", "namespaces.html", [
@@ -62,8 +64,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_block.html#abfe6833be2b6707e68fdb9fd3c62544a",
-"class_dapper_labs_1_1_flow_1_1_sdk_1_1_unity_1_1_flow_control.html#a088dfdcfdfe95a9a6bac9bd7246d650f"
+"class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_block.html#af6a5854ffbd729e61eefa50ab7148248",
+"class_dapper_labs_1_1_flow_1_1_sdk_1_1_unity_1_1_emulator_gateway.html#af73f59b9f055e642aab7702a281fb2cf"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

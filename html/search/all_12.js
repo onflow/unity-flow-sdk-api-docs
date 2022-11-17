@@ -7,7 +7,7 @@ var searchData=
   ['timestamp_4',['Timestamp',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_block.html#aad771f94046b18e6be19e21e0877b61f',1,'DapperLabs::Flow::Sdk::DataObjects::FlowBlock']]],
   ['tojson_5',['ToJson',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_unity_1_1_flow_control.html#a0ff127bc0962ad3af3de187a8aecd0c8',1,'DapperLabs::Flow::Sdk::Unity::FlowControl']]],
   ['totalcomputationused_6',['TotalComputationUsed',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_chunk.html#ab3fe14f9692cf1cb52aaeb9544fa566b',1,'DapperLabs::Flow::Sdk::DataObjects::FlowChunk']]],
-  ['transactiondialog_7',['TransactionDialog',['../class_transaction_dialog.html',1,'']]],
+  ['transactiondialog_7',['TransactionDialog',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_transaction_dialog.html',1,'DapperLabs::Flow::Sdk::DevWallet']]],
   ['transactionid_8',['TransactionId',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_event.html#a4cfe8079fa4c98275c817733f013360c',1,'DapperLabs::Flow::Sdk::DataObjects::FlowEvent']]],
   ['transactionids_9',['TransactionIds',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_collection.html#ac83a3dc9a0c6b2f8d953ceb8215b38f0',1,'DapperLabs::Flow::Sdk::DataObjects::FlowCollection']]],
   ['transactionindex_10',['TransactionIndex',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_data_objects_1_1_flow_event.html#a3a91e79773fab0ccfb283933e016cf3e',1,'DapperLabs::Flow::Sdk::DataObjects::FlowEvent']]],

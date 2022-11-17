@@ -69,9 +69,9 @@ var hierarchy =
     ] ],
     [ "DapperLabs.Flow.Sdk.CommonTransactions.KeyPair", "struct_dapper_labs_1_1_flow_1_1_sdk_1_1_common_transactions_1_1_key_pair.html", null ],
     [ "MonoBehaviour", null, [
-      [ "AccountDialog", "class_account_dialog.html", null ],
-      [ "DapperLabs.Flow.Sdk.Unity.FlowControl", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_unity_1_1_flow_control.html", null ],
-      [ "TransactionDialog", "class_transaction_dialog.html", null ]
+      [ "DapperLabs.Flow.Sdk.DevWallet.AccountDialog", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_account_dialog.html", null ],
+      [ "DapperLabs.Flow.Sdk.DevWallet.TransactionDialog", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_transaction_dialog.html", null ],
+      [ "DapperLabs.Flow.Sdk.Unity.FlowControl", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_unity_1_1_flow_control.html", null ]
     ] ],
     [ "DapperLabs.Flow.Sdk.Unity.FlowControl.Network", "class_dapper_labs_1_1_flow_1_1_sdk_1_1_unity_1_1_flow_control_1_1_network.html", null ],
     [ "ScriptableObject", null, [

@@ -6,7 +6,7 @@ var searchData=
   ['accountcontractremoved_3',['AccountContractRemoved',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_constants_1_1_event_types.html#ae5c300cdcc20c0ccf6f9eff1fc8c6f83',1,'DapperLabs::Flow::Sdk::Constants::EventTypes']]],
   ['accountcontractupdated_4',['AccountContractUpdated',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_constants_1_1_event_types.html#aabd49928b67e9df8ce737edfdd9dfe0c',1,'DapperLabs::Flow::Sdk::Constants::EventTypes']]],
   ['accountcreated_5',['AccountCreated',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_constants_1_1_event_types.html#abf28db20e122f80c15f4c4afeded073b',1,'DapperLabs::Flow::Sdk::Constants::EventTypes']]],
-  ['accountdialog_6',['AccountDialog',['../class_account_dialog.html',1,'']]],
+  ['accountdialog_6',['AccountDialog',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_dev_wallet_1_1_account_dialog.html',1,'DapperLabs::Flow::Sdk::DevWallet']]],
   ['accountkeyadded_7',['AccountKeyAdded',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_constants_1_1_event_types.html#ad1283ef54091e553a07928c186e4ad81',1,'DapperLabs::Flow::Sdk::Constants::EventTypes']]],
   ['accountkeyremoved_8',['AccountKeyRemoved',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_constants_1_1_event_types.html#a75c3b3d66383359e80165b43ce96198a',1,'DapperLabs::Flow::Sdk::Constants::EventTypes']]],
   ['accounts_9',['Accounts',['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_unity_1_1_flow_control_data.html#a61b3092513fc3a6c63daffc66d058739',1,'DapperLabs.Flow.Sdk.Unity.FlowControlData.Accounts()'],['../class_dapper_labs_1_1_flow_1_1_sdk_1_1_accounts.html',1,'DapperLabs.Flow.Sdk.Accounts']]],
